@@ -1,5 +1,5 @@
 # WebMusic
-大屏页面音乐播放器项目
+大屏页面音乐站项目
 
 ## 预览地址
 https://evenyao.github.io/WebMusic/
