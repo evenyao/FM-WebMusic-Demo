@@ -1,9 +1,8 @@
-# Music
-大屏页面音乐播放器
-
-WebMusic项目
+# WebMusic
+大屏页面音乐播放器项目
 
 ## 预览地址
+https://evenyao.github.io/WebMusic/
 
 ## 版本相关
 ### 2018.8.28
