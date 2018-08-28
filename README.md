@@ -4,7 +4,7 @@
 ## 预览地址
 https://evenyao.github.io/WebMusic/
 
-## 版本相关
+## 关于版本
 ### 2018.8.28
 v0.1：完成静态页面效果与布局
 
