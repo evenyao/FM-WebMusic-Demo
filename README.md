@@ -2,7 +2,7 @@
 大屏页面音乐站项目-静态页面
 
 ## 预览地址
-https://evenyao.github.io/WebMusic-Demo/
+https://evenyao.github.io/FM-WebMusic-Demo/
 
 
 ## 布局要点
