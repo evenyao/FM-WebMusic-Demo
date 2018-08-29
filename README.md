@@ -1,12 +1,9 @@
 # WebMusic
-大屏页面音乐站项目
+大屏页面音乐站项目-静态页面
 
 ## 预览地址
-https://evenyao.github.io/WebMusic/
+https://evenyao.github.io/WebMusic-Demo/
 
-## 关于版本
-### 2018.8.28
-v0.1：完成静态页面效果与布局
 
 ## 布局要点
 ### 响应式
