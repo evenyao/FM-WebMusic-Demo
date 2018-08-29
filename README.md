@@ -1,8 +1,11 @@
-# WebMusic
-大屏页面音乐站项目-静态页面
+# FM-WebMusic-Demo
+大屏页面音乐站项目-静态页面 Demo
 
 ## 预览地址
 https://evenyao.github.io/FM-WebMusic-Demo/
+
+## 包含功能的v1.0版地址
+https://evenyao.github.io/FM-WebMusic/
 
 
 ## 布局要点
